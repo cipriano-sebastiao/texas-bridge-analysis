@@ -1,8 +1,8 @@
-# Exploratory Analysis and Regression Modelling of Texas Bridge Data
-
 <p align="center">
-  <img src="assets/condition_distribution.png" alt="Distribution of Bridge Condition Scores" width="800"/>
+  <img src="assets/image.png" alt="Texas Bridge Data Analysis" width="800"/>
 </p>
+
+# Exploratory Analysis and Regression Modelling of Texas Bridge Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Dataset-TxDOT%202019-4CAF50?style=for-the-badge" alt="Dataset"/>
   <img src="https://img.shields.io/badge/Records-33%2C970%20bridges-blue?style=for-the-badge" alt="Records"/>
   <img src="https://img.shields.io/badge/R²-0.4541-9C27B0?style=for-the-badge" alt="R2 Score"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
 </p>
 
 > A statistical regression analysis of 34,293 bridges from the Texas Department of Transportation (TxDOT) Bridge Inventory Dataset (2019), identifying which structural and operational factors best predict bridge condition.
